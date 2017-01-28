@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on Intelligent Unit</title>
+    <link>https://intelligentunit.github.io/tags/tag2/index.xml</link>
+    <description>Recent content in Tag2 on Intelligent Unit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <atom:link href="https://intelligentunit.github.io/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test3</title>
+      <link>https://intelligentunit.github.io/test3/</link>
+      <pubDate>Sat, 28 Jan 2017 11:37:24 +0800</pubDate>
+      
+      <guid>https://intelligentunit.github.io/test3/</guid>
+      <description>
+
+&lt;h2 id=&#34;test-3&#34;&gt;Test 3&lt;/h2&gt;
+
+&lt;p&gt;Hello World&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

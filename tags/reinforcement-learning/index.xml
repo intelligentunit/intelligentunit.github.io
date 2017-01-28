@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning on Intelligent Unit</title>
+    <link>https://intelligentunit.github.io/tags/reinforcement-learning/index.xml</link>
+    <description>Recent content in Reinforcement Learning on Intelligent Unit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <atom:link href="https://intelligentunit.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test1</title>
+      <link>https://intelligentunit.github.io/test1/</link>
+      <pubDate>Sat, 28 Jan 2017 11:34:24 +0800</pubDate>
+      
+      <guid>https://intelligentunit.github.io/test1/</guid>
+      <description>
+
+&lt;h2 id=&#34;test1&#34;&gt;Test1&lt;/h2&gt;
+
+&lt;p&gt;Hello World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
